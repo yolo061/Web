@@ -1,7 +1,17 @@
+# 教材 PDF 等资料，不入库
+doc/
+
+# 工具与编辑器配置
 .gitignore
 .git
 .claude/
 .vscode/
 
+# 编译产物
 *.o
+outputs/
 cacu
+who
+pwd
+ls
+io
